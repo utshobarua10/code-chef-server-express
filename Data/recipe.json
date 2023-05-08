@@ -1,0 +1,179 @@
+
+{
+    "food_items": [
+        {
+            "id": "1",
+            "items": [
+                {
+                    "name": "Margherita Pizza",
+                    "details": "Tomato sauce, mozzarella cheese, and basil",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xdKg2OssMWPE-SqkgOduIZDcEykLm6N6_hdmsJfl&s",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Pepperoni Pizza",
+                    "details": "Tomato sauce, mozzarella cheese, and pepperoni",
+                    "img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Hawaiian Pizza",
+                    "details": "Tomato sauce, mozzarella cheese, ham, and pineapple",
+                    "img": "https://images.pexels.com/photos/718742/pexels-photo-718742.jpeg?auto=compress&cs=tinysrgb&w=600",
+                    "rating": 4.0
+                },
+                {
+                    "name": "Meat Lovers Pizza",
+                    "details": "Tomato sauce, mozzarella cheese, sausage, pepperoni, and bacon",
+                    "img": "https://images.pexels.com/photos/1146760/pexels-photo-1146760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.8
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "items": [
+                {
+                    "name": "Cheeseburger",
+                    "details": "Beef patty, cheese, lettuce, tomato, and mayo",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xdKg2OssMWPE-SqkgOduIZDcEykLm6N6_hdmsJfl&s",
+                    "rating": 4.3
+                },
+                {
+                    "name": "Bacon Burger",
+                    "details": "Beef patty, bacon, cheese, lettuce, tomato, and mayo",
+                    "img": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Mushroom Swiss Burger",
+                    "details": "Beef patty, sautéed mushrooms, Swiss cheese, lettuce, tomato, and mayo",
+                    "img": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.0
+                },
+                {
+                    "name": "Veggie Burger",
+                    "details": "Veggie patty, lettuce, tomato, onion, and mayo",
+                    "img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g",
+                    "rating": 4.1
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "items": [
+                {
+                    "name": "Beef Taco",
+                    "details": "Beef, lettuce, cheese, and tomato in a crispy taco shell",
+                    "img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Chicken Taco",
+                    "details": "Grilled chicken, lettuce, cheese, and tomato in a crispy taco shell",
+                    "img": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.0
+                },
+                {
+                    "name": "Fish Taco",
+                    "details": "Battered fish, lettuce, cheese, and tomato in a soft taco shell",
+                    "img": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.3
+                },
+                {
+                    "name": "Veggie Taco",
+                    "details": "Black beans, lettuce, cheese, and tomato in a soft taco shell",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xdKg2OssMWPE-SqkgOduIZDcEykLm6N6_hdmsJfl&s",
+                    "rating": 4.4
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "items": [
+                {
+                    "name": "Pad Thai",
+                    "details": "Stir-fried rice noodles, egg, tofu, shrimp, and peanuts in tamarind sauce",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xdKg2OssMWPE-SqkgOduIZDcEykLm6N6_hdmsJfl&s",
+                    "rating": 4.4
+                },
+                {
+                    "name": "Green Curry",
+                    "details": "Green curry paste, coconut milk, chicken, bamboo shoots, and basil",
+                    "img": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.1
+                },
+                {
+                    "name": "Tom Yum Soup",
+                    "details": "Hot and sour soup with shrimp, lemongrass, and lime juice",
+                    "img": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.3
+                },
+                {
+                    "name": "Spring Rolls",
+                    "details": "Crispy fried rolls stuffed with vegetables and vermicelli noodles",
+                    "img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g",
+                    "rating": 4.0
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "items": [
+                {
+                    "name": "Spaghetti Bolognese",
+                    "details": "Spaghetti with tomato-based meat sauce and parmesan cheese",
+                    "img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g",
+                    "rating": 4.6
+                },
+                {
+                    "name": "Fettuccine Alfredo",
+                    "details": "Fettuccine pasta in a creamy Parmesan sauce",
+                    "img": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Pesto Pasta",
+                    "details": "Penne pasta in a basil pesto sauce with sun-dried tomatoes and pine nuts",
+                    "img": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Lasagna",
+                    "details": "Layered pasta with beef, tomato sauce, and cheese",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xdKg2OssMWPE-SqkgOduIZDcEykLm6N6_hdmsJfl&s",
+                    "rating": 4.7
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "items": [
+                {
+                    "name": "Sushi Roll",
+                    "details": "Sushi rice, seaweed, cucumber, avocado, and crabmeat",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xdKg2OssMWPE-SqkgOduIZDcEykLm6N6_hdmsJfl&s",
+                    "rating": 4.4
+                },
+                {
+                    "name": "Sashimi",
+                    "details": "Assorted slices of raw fish",
+                    "img": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Tempura",
+                    "details": "Deep-fried battered seafood and vegetables",
+                    "img": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "rating": 4.3
+                },
+                {
+                    "name": "Miso Soup",
+                    "details": "Traditional Japanese soup with tofu and seaweed",
+                    "img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1g",
+                    "rating": 4.1
+                }
+            ]
+        }
+    ]
+}

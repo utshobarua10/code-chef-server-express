@@ -1,0 +1,59 @@
+
+{
+  "chefs": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "experience": 10,
+      "totalRecipe": 50,
+      "likes": 25,
+      "bio": "John Smith is a renowned chef with a passion for creating unique and delicious dishes. He has worked in some of the finest restaurants in the world and has won numerous awards for his culinary creations.",
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 2,
+      "name": "Lisa Wong",
+      "experience": 7,
+      "totalRecipe": 30,
+      "likes": 15,
+      "bio": "Lisa Wong is a skilled chef with a talent for creating dishes that are both healthy and delicious. She has worked in several restaurants and is known for her ability to use fresh, local ingredients to create flavorful and nutritious meals.",
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "experience": 15,
+      "totalRecipe": 80,
+      "likes": 40,
+      "bio": "Michael Johnson is a highly experienced chef with a passion for creating classic dishes with a modern twist. He has worked in some of the world's top restaurants and has won numerous awards for his innovative culinary creations.",
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "name": "Sara Lee",
+      "experience": 5,
+      "totalRecipe": 20,
+      "likes": 10,
+      "bio": "Sara Lee is a creative and innovative chef with a passion for experimenting with new ingredients and flavors. She has worked in several top restaurants and is known for her ability to create dishes that are both delicious and visually stunning.",
+      "img": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "name": "David Rodriguez",
+      "experience": 12,
+      "totalRecipe": 65,
+      "likes": 30,
+      "bio": "David Rodriguez is a talented chef with a passion for using fresh, seasonal ingredients to create flavorful and healthy dishes. He has worked in several top restaurants and is known for his ability to create dishes that are both delicious and visually appealing.",
+      "img": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "name": "Maria Hernandez",
+      "experience": 8,
+      "totalRecipe": 40,
+      "likes": 20,
+      "bio": "Maria Hernandez is a creative and talented chef with a passion for creating dishes that are both delicious and healthy. She has worked in several top restaurants and is known for her ability to use fresh, local ingredients to create unique and flavorful meals.",
+      "img": "https://images.pexels.com/photos/2787341/pexels-photo-2787341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
